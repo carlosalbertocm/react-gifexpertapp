@@ -4,3 +4,8 @@
 body {
 	padding: 60px;
 }
+input {
+	color: grey;
+	font-size: 1rem;
+	width: 100%;
+}
