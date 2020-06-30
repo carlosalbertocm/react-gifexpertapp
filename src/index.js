@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import PrimeraApp from "./PrimeraApp";
 import "./index.css";
+import { GifExpertApp } from "./GifExpertApp";
 
 const divRoot = document.querySelector("#root");
 
-ReactDOM.render(<PrimeraApp />, divRoot);
+ReactDOM.render(<GifExpertApp />, divRoot);
